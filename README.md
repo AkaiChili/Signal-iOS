@@ -1,3 +1,8 @@
+# 编译准备
+
+克隆项目时记得加上 `--recurse-submodules`
+详细请看[这里](https://github.com/AkaiChili/Signal-iOS/blob/master/BUILDING.md) 
+
 # Signal iOS
 
 Signal is a free, open source, messaging app for simple private communication with friends. 
